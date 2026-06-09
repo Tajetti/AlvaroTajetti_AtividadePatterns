@@ -1,9 +1,22 @@
 package br.alvaro.factoryCriacional;
 
-public abstract  class LegacyLoggerAdapter implements Logger{
+public  class LegacyLoggerAdapter implements Logger{
     
-    public LegacyLoggerAdapter(LegacyLoggerAdapter legacyLoggerAdapter) {
-        
+    public final LegacyLogger legacyLogger;
+
+
+    public LegacyLoggerAdapter(LegacyLogger legacyLogger) {
+        this.legacyLogger = legacyLogger;
+    }
+
+    @Override
+    public void info(String message) {
+        legacyLogger.log("INFO", message);
+    }
+
+    @Override
+    public void error(String message) {
+        legacyLogger.log("ERROR", message);
     }
 
 }

@@ -1,8 +1,8 @@
 package br.alvaro.factoryCriacional;
 
-public abstract class LegacyLogger implements Logger {
+public class LegacyLogger {
     
-    void log(String level, String text){
+    public void log(String level, String text){
         System.out.println("[" + level + "] " + text);
     }
 
