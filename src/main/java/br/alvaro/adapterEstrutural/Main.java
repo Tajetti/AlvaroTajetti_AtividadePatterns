@@ -1,4 +1,4 @@
-package br.alvaro.factoryCriacional;
+package br.alvaro.adapterEstrutural;
 
 public class Main {
     public static void main(String[] args) {

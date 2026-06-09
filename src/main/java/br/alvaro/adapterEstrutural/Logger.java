@@ -1,4 +1,4 @@
-package br.alvaro.factoryCriacional;
+package br.alvaro.adapterEstrutural;
 
 public interface Logger {
     void info(String message);
