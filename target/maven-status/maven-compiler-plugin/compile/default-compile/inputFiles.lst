@@ -6,6 +6,7 @@
 /Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/adapterEstrutural/Main.java
 /Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/factoryCriacional/EmailNotification.java
 /Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/factoryCriacional/EmailNotificationFactory.java
+/Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/factoryCriacional/Main.java
 /Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/factoryCriacional/Notification.java
 /Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/factoryCriacional/NotificationFactory.java
 /Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/factoryCriacional/NotificationService.java
@@ -13,3 +14,8 @@
 /Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/factoryCriacional/PushNotificationFactory.java
 /Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/factoryCriacional/SMSNotification.java
 /Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/factoryCriacional/SMSNotificationFactory.java
+/Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/observerComportamental/ConsoleDisplay.java
+/Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/observerComportamental/FanController.java
+/Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/observerComportamental/Main.java
+/Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/observerComportamental/TemperatureObserver.java
+/Users/alvarotajetti/Faculdade/arquitetura/Design Patterns/arquitetura/src/main/java/br/alvaro/observerComportamental/WeatherStation.java
